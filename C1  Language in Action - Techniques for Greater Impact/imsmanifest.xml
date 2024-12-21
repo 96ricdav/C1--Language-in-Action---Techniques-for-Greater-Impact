@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="00" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="editor.exportDialog.defaults.authorName">
+    <organization identifier="editor.exportDialog.defaults.authorName">
+      <title>C1: Language in Action - Techniques for Greater Impact</title>
+      <item identifier="item_00" identifierref="resource_00">
+        <title>C1: Language in Action - Techniques for Greater Impact</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <adlcp:location>metadata.xml</adlcp:location>
+        </metadata>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <resource identifier="resource_00" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="SCORM_API_wrapper.js"/>
+      <file href="audios/file-KScU2ZMRk0Qo-I34.mp3"/>
+      <file href="audios/file-PbZnoiWACiYIG6Ix.mp3"/>
+      <file href="audios/file-RUeFMFB69KeN8BFz.mp3"/>
+      <file href="audios/file-V6J0h9m2rvYVku8l.mp3"/>
+      <file href="audios/file-XgdZVET9C_yw2lsL.mp3"/>
+      <file href="audios/file-Y2jVL9zKJh9qOvDW.mp3"/>
+      <file href="audios/file-dWoDiuPkRMmMGZ3A.mp3"/>
+      <file href="audios/file-ee5yXgr5pevh9qRX.mp3"/>
+      <file href="audios/file-veInhdtcGZkcp2KN.mp3"/>
+      <file href="h5p-adaptor.js"/>
+      <file href="images/file-64UQ-SaOX6BAq9zZ-LYAWbVkS-PgTX3uRW-pN4M8fix.jpg"/>
+      <file href="images/file-8iLn_y_rh77k-9Tr.jpg"/>
+      <file href="images/file-9SYddjDI.jpg"/>
+      <file href="images/file-CQhjkD-VzVchTixb-HGLhFcTv-iCADFG2T-8tRX2guT.jpg"/>
+      <file href="images/file-IFSYWFmv.jpg"/>
+      <file href="images/file-TXYcTk_BSa_p8xZm-N2sKiBUh-dEwJ3Jnl-AyycfPHH.jpg"/>
+      <file href="images/file-X-zp0GT9-H8e3VKB-OftfFZ66.jpg"/>
+      <file href="images/file-X-zp0GT9-H8e3VKB.jpg"/>
+      <file href="images/file-Y-GFEJ80X_PDERuX-TMs8XpXo-DN14Nu6l-jnUK11XR-cP7S7Vml.jpg"/>
+      <file href="images/file-Y-GFEJ80X_PDERuX-TMs8XpXo-DN14Nu6l-jnUK11XR.jpg"/>
+      <file href="images/file-aAhPSHHI8c_hbFJ4-4TAd5icl-d5bIDc2L.png"/>
+      <file href="images/file-bmuOOsCF6W0Q9I-Q.jpg"/>
+      <file href="images/file-oO0ywt2qa-AZs7qY.jpg"/>
+      <file href="images/file-x7QZtbBknqAa-umO-Pxsckje9-XlhCjH4S.jpg"/>
+      <file href="index.html"/>
+      <file href="videos/file-9nhi4hfItwwwEjuF.mp4"/>
+    </resource>
+  </resources>
+</manifest>
